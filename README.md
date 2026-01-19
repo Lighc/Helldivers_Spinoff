@@ -2,3 +2,4 @@ This is a Helldivers version spinoff of https://firebolt62.github.io/Undertale_H
 Original made by Firebolt62.
 
 Visit the webpage here:
+https://lighc.github.io/Helldivers_Spinoff/
